@@ -10,8 +10,12 @@ Using a dataset of employee metrics (satisfaction, hours worked, salary, etc.), 
 
 1. **Exploratory Data Analysis (EDA):** Identifying variables with direct impact on retention (e.g., satisfaction level and promotions).
 2. **Visualizations:** Bar charts illustrating how salary levels and specific departments correlate with employee turnover.
-3. **Predictive Modeling:** A Logistic Regression model trained on high-impact features.
-4. **Performance Evaluation:** Accuracy scoring and coefficient analysis to determine the weight of each factor.
+                        <img width="859" height="547" alt="output" src="https://github.com/user-attachments/assets/281b76d1-298c-40ed-a562-7ec2c380f89d" />
+
+<img width="1014" height="609" alt="output2" src="https://github.com/user-attachments/assets/185fa1f6-397b-4e3e-9022-2e097e1064f8" />
+
+3.. **Predictive Modeling:** A Logistic Regression model trained on high-impact features.
+4.. **Performance Evaluation:** Accuracy scoring and coefficient analysis to determine the weight of each factor.
 
 ## Prerequisites
 
